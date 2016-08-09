@@ -6,9 +6,9 @@ color:
   saturation: 0.855296925175935
   rhythmicContrast: 0.8382457897532731
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FFFFFF'
+    - '#31338D'
+    - '#C59971'
+    - '#00944E'
+    - '#F31C2C'
 name: Ninja Kids
