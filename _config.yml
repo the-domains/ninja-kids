@@ -18,6 +18,9 @@ navigation:
   - name: How to Register
     id: 0c8d1c60-58c2-41af-9917-0e14abf43141
     type: content
+  - name: History and Philosophy
+    id: 39a69ff8-5d5b-47ad-b129-5a7a361209ca
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/77f2017a-afc0-4aaf-8668-c06fd4821639.jpg
 title: Safety - Confidence - Respect
