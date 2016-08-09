@@ -21,6 +21,9 @@ navigation:
   - name: History and Philosophy
     id: 39a69ff8-5d5b-47ad-b129-5a7a361209ca
     type: content
+  - name: Lesson Plan Development
+    id: 66f82490-f1b4-46cb-af90-a525a4763a0f
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/77f2017a-afc0-4aaf-8668-c06fd4821639.jpg
 title: Safety - Confidence - Respect
