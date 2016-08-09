@@ -3,20 +3,19 @@ description: >-
   The following contains the ongoing program that is being developed for Ninja
   Kids. In essence, the outcomes of the lesson plan doesn’t change, the plan to
   get there simply adapts over time.
-dateModified: '2016-08-09T13:51:31.295Z'
-datePublished: '2016-08-09T13:51:53.987Z'
+dateModified: '2016-08-09T13:52:29.206Z'
+datePublished: '2016-08-09T13:52:29.931Z'
 title: >-
   Join us Thursday’s 5-6 p.m. and Saturday’s 9-10 & 10-11 a.m. at the Athletic
   Centre at Trent for a demo class.
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-09-join-us-thursdays-5-6-pm-and-saturdays-9-10-and-10-11-am.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: join-us-thursdays-5-6-pm-and-saturdays-9-10-and-10-11-am/index.html
+_type: Blurb
 
 ---
 # **Join us Thursday's 5-6 p.m. and Saturday's 9-10 & 10-11 a.m. at the Athletic Centre at Trent for a demo class.**
