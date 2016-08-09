@@ -14,6 +14,10 @@ layout_spectrum: 0.26650994503870606
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/12326adb-bd6c-47de-b76d-8f2942ee0b7d.jpg
 name: Ninja Kids
+navigation:
+  - name: How to Register
+    id: 0c8d1c60-58c2-41af-9917-0e14abf43141
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/77f2017a-afc0-4aaf-8668-c06fd4821639.jpg
 title: Safety - Confidence - Respect
