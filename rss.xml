@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Safety - Confidence - Respect]]></title>
+        <description><![CDATA[Safety - Confidence - Respect]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Aug 2016 14:04:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ninja Kids Official Video]]></title>
+            <description><![CDATA[<article><h1>Ninja Kids Official Video</h1><p>Join us as we celebrate the closing of the first year of the Ninja Kids program in Peterborough. Since September 2015, the program has grown 400% and is constantly growing. Please share this video and visit www.ninjakids.ca to learn more. You can register at the Athletics Centre at Trent, but hurry because the classes fill quickly.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=HgoEgYDi1FE</link>
+            <guid isPermaLink="false">ce4600fc-4c01-46e5-b331-d2a4fd1fe26c</guid>
+            <pubDate>Tue, 09 Aug 2016 14:03:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
