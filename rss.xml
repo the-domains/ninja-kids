@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Safety - Confidence - Respect]]></title>
         <description><![CDATA[Safety - Confidence - Respect]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ninja-kids/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 14:04:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Aug 2016 18:23:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ninja-kids/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ninja Kids Official Video]]></title>
-            <description><![CDATA[<article><h1>Ninja Kids Official Video</h1><p>Join us as we celebrate the closing of the first year of the Ninja Kids program in Peterborough. Since September 2015, the program has grown 400% and is constantly growing. Please share this video and visit www.ninjakids.ca to learn more. You can register at the Athletics Centre at Trent, but hurry because the classes fill quickly.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Ninja Kids Official Video</h1><p>Join us as we celebrate a successful first year of the Ninja Kids program in Peterborough. Since September 2015, the program has grown 400% and is constantly growing. Please share this video and visit www.ninjakids.ca to learn more. You can register at the Athletics Centre at Trent, but hurry because the classes fill quickly.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/adac0991c9aebe5a71c3189f6a5a2cc0/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FHgoEgYDi1FE%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=HgoEgYDi1FE</link>
             <guid isPermaLink="false">ce4600fc-4c01-46e5-b331-d2a4fd1fe26c</guid>
-            <pubDate>Tue, 09 Aug 2016 14:03:53 GMT</pubDate>
+            <pubDate>Tue, 09 Aug 2016 18:23:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
