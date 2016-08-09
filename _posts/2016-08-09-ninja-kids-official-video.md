@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Paul Teleki
-    url: 'https://www.youtube.com/user/paulteleki'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-08-09T18:23:17.473Z'
+sourcePath: _posts/2016-08-09-ninja-kids-official-video.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=HgoEgYDi1FE'
 keywords:
   - duration
   - teleki
@@ -20,13 +13,14 @@ keywords:
   - trucks
   - video
   - wutangcollection
-description: >-
-  Join us as we celebrate the closing of the first year of the Ninja Kids
-  program in Peterborough. Since September 2015, the program has grown 400% and
-  is constantly growing. Please share this video and visit www.ninjakids.ca to
-  learn more. You can register at the Athletics Centre at Trent, but hurry
-  because the classes fill quickly.
-inLanguage: en
+related: []
+author:
+  - name: Paul Teleki
+    url: 'https://www.youtube.com/user/paulteleki'
+    avatar: {}
+via: {}
+dateModified: '2016-08-09T18:23:16.939Z'
+title: Ninja Kids Official Video
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=HgoEgYDi1FE&feature=applinks'
     type: ios
@@ -64,18 +58,24 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=HgoEgYDi1FE'
-title: Ninja Kids Official Video
-datePublished: '2016-08-09T14:03:53.395Z'
-dateModified: '2016-08-09T14:03:00.026Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: >-
+  Join us as we celebrate a successful first year of the Ninja Kids program in
+  Peterborough. Since September 2015, the program has grown 400% and is
+  constantly growing. Please share this video and visit www.ninjakids.ca to
+  learn more. You can register at the Athletics Centre at Trent, but hurry
+  because the classes fill quickly.
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-09-ninja-kids-official-video.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHgoEgYDi1FE%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHgoEgYDi1FE&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHgoEgYDi1FE%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
